@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [P3SM](https://p3sm.or.id/)
 
-- 🌱 I’m currently learning **Flutter, MERN**
+- 🌱 I’m currently learning **Flutter, MERN & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://niowcode.id/portfolio](https://niowcode.id/portfolio)
 
