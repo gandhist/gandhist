@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gandhi</h1>
-<h3 align="center">Welcome to my repositories, my focus currently are Backend, Frontend, Mobile Development</h3>
+<h3 align="center">Welcome to my repositories, my focus currently are Backend, Frontend & Mobile Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandhist&label=Profile%20views&color=0e75b6&style=flat" alt="gandhist" /> </p>
 
