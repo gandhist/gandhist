@@ -23,11 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/gandhist" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/gandhist" height="30" width="40" /></a>
+<a href="https://codepen.io/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/gandhist" height="30" width="40" /></a>
+<a href="https://dev.to/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/gandhist" height="30" width="40" /></a>
 <a href="https://twitter.com/gandhisaputra13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gandhisaputra13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gandhi-saputra-21ab23136/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gandhi-saputra-21ab23136/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10305412/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10305412/gandhist" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gandhi-saputra-21ab23136/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gandhi-saputra-21ab23136/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10305412/gandhist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/10305412/gandhist" height="30" width="40" /></a>
 <a href="https://medium.com/@gandhisaputra13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gandhisaputra13" height="30" width="40" /></a>
 </p>
 
